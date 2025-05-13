@@ -10,8 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@thinksys/react-native-mediapipe": "^0.0.13",
     "react": "19.0.0",
-    "react-native": "0.79.1"
+    "react-native": "0.79.1",
+    "react-native-svg": "^15.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
